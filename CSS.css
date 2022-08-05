@@ -1,0 +1,29 @@
+
+*{
+  background: red
+}
+.s1{
+  color: blue
+  font-family: "Cursive"
+}
+
+.s2{
+  color: yellow
+}
+
+input{
+  color: white
+}
+
+
+div p{
+  background: pink
+}
+
+#textblock{
+  border: 5px
+}
+
+p{
+  font-family: "arial"
+}
